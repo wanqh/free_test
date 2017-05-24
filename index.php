@@ -1,5 +1,7 @@
 <?php
-//
+//@auth:frank
+//@test
+//ok
 //test pcntl 
 $pid=pcntl_fork();
 switch($pid){
